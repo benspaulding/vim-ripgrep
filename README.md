@@ -22,3 +22,9 @@ Word under cursor will be searched if no argument is passed to `Rg`
 Show root search dir
 
     :RgRoot
+
+## fork
+
+This form of vim-grep is just to keep it working on my personal setup with Neovim and
+Fish shell on macOS.
+[View changes](https://github.com/jremmen/vim-ripgrep/compare/master...benspaulding:master)
